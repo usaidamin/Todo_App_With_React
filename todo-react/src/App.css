@@ -1,0 +1,38 @@
+.myContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.myInput{
+    width: 70%;
+}
+.input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c8c8c8;
+    font-size: 20px;
+    outline: none;
+}
+.list{
+    width: 70%;
+}
+.saveInput{
+    display: flex !important;
+}
+.editValue{
+    border: 2px solid #c8c8c8;
+    width: 100%;
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+}
+.listing{
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #c8c8c8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
